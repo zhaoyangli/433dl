@@ -1,6 +1,6 @@
 # 433dl
 
-[My Phase Report](https://www.overleaf.com/project/6580f3803c6222388baa9a73)
+[Phase Report](https://www.overleaf.com/project/6580f3803c6222388baa9a73)
 
 [GitHub Repository](https://github.com/zhaoyangli/433dl)
 
